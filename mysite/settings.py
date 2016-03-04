@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Dominican Republic/santo domingo'
+TIME_ZONE = 'America/Santo_Domingo'
 
 USE_I18N = True
 
